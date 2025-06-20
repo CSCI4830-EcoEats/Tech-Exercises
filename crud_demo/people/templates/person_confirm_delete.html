@@ -1,0 +1,6 @@
+<h2>Delete {{ person }}?</h2>
+<form method="post">
+  {% csrf_token %}
+  <button type="submit">Confirm</button>
+</form>
+<a href="{% url 'person_list' %}">Cancel</a>

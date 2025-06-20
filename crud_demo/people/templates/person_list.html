@@ -1,0 +1,10 @@
+<h2>EcoEats Team 4 Members</h2>
+<a href="{% url 'person_create' %}">Add Member</a>
+<ul>
+  {% for person in people %}
+    <li>{{ person }} |
+      <a href="{% url 'person_update' person.pk %}">Edit</a> |
+      <a href="{% url 'person_delete' person.pk %}">Delete</a>
+    </li>
+  {% endfor %}
+</ul>
