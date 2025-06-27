@@ -7,3 +7,6 @@ def hello_world(request):
 # Create your views here.
 def hello_EcoEats(request):
     return render(request, 'hello.html')
+
+def hello_komlan(request):
+	return HttpResponse("Hello from Komlan!")
