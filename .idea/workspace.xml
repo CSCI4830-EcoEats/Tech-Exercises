@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="de9c83f7-4f04-44b8-9055-8773901b9e69" name="Changes" comment="" />
+    <list default="true" id="de9c83f7-4f04-44b8-9055-8773901b9e69" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/Tech Exercise 4/Hello_World/Hello_World_App/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/Tech Exercise 4/Hello_World/Hello_World_App/views.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,9 +15,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 5
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
   <component name="ProjectId" id="2z54ASNjDI2PRuHW1n4RS1pCAze" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -26,7 +28,7 @@
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "Tech-Exercise-4-Aristide-Branch",
+    "git-widget-placeholder": "Tech-Exercises-4-Aristide-Branch",
     "ignore.virus.scanning.warn.message": "true",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -52,6 +54,7 @@
       <option name="presentableId" value="Default" />
       <updated>1751007460292</updated>
       <workItem from="1751007463292" duration="1296000" />
+      <workItem from="1751057425746" duration="67000" />
     </task>
     <servers />
   </component>
